@@ -1,9 +1,23 @@
-h1 {
-  color: blue;
+body {
+  /*background: url(Torontotestpic.jpg);
+  background-size: cover;*/
+  padding: 0;
+  margin: 0;
 }
-p#primary {
+div.container {
+  width: 800px;
+  background: rgba(0,0,0,0.5);
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  padding: 25px;
+}
+h2 {
   color: red;
 }
-img {
+p#primary {
+  color: black;
+}
+img.profilepic {
   width: 200px;
 }
